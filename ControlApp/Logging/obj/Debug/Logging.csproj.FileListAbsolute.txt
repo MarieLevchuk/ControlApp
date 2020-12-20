@@ -1,0 +1,11 @@
+D:\ControlApp\Logging\bin\Debug\Logging.exe.config
+D:\ControlApp\Logging\bin\Debug\Logging.exe
+D:\ControlApp\Logging\bin\Debug\Logging.pdb
+D:\ControlApp\Logging\bin\Debug\log4net.dll
+D:\ControlApp\Logging\bin\Debug\log4net.xml
+D:\ControlApp\Logging\obj\Debug\Logging.csprojAssemblyReference.cache
+D:\ControlApp\Logging\obj\Debug\Logging.csproj.CoreCompileInputs.cache
+D:\ControlApp\Logging\obj\Debug\Logging.csproj.CopyComplete
+D:\ControlApp\Logging\obj\Debug\Logging.exe
+D:\ControlApp\Logging\obj\Debug\Logging.pdb
+D:\ControlApp\Logging\bin\Debug\App.config
